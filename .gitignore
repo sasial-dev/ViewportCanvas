@@ -12,3 +12,6 @@
 
 # VS Code files
 .vscode/*
+
+# node
+node_modules
